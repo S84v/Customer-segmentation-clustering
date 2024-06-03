@@ -1,4 +1,4 @@
-## <u>**Customer segmentation via clustering**</u>
+## <ins>**Customer segmentation via clustering**</ins>
 This is a project to demonstrate customer segmentation via clustering. <br>
 We will be practicing the following concepts in this project:
 
