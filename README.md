@@ -2,7 +2,7 @@
 
 This project demonstrates customer segmentation using various clustering techniques. We explore and preprocess the data, reduce dimensionality, apply clustering algorithms, and interpret the results to gain insights about customer behavior.
 
-## Project Overview 🚀
+## Project Overview
 
 In this project, we practice the following concepts:
 1. Exploratory Data Analysis (EDA) 🔍
