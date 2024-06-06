@@ -19,4 +19,4 @@ In this project, we practice the following concepts:
 This project helps in understanding the customer base by segmenting them into different groups based on their behavior, allowing for targeted marketing strategies.
 
 
-### View this notebook in nbviewer [here](https://nbviewer.org/github/S84v/Customer-segmentation-clustering/blob/main/Customer%20Segmentation%20via%20Clustering.ipynb).
+### View this notebook in nbviewer [here](https://nbviewer.org/github/S84v/Customer-segmentation-clustering/blob/main/Customer%20Segmentation%20via%20Clustering.ipynb?flush_cache=True).
