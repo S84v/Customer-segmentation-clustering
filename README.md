@@ -19,6 +19,6 @@ In this project, we practice the following concepts:
 This project helps in understanding the customer base by segmenting them into different groups based on their behavior, allowing for targeted marketing strategies.
 
 
-### View this notebook in nbviewer [here](https://nbviewer.org/github/S84v/Customer-segmentation-clustering/blob/main/Customer%20Segmentation%20via%20Clustering.ipynb?flush_cache=true).
+### View this notebook in nbviewer [here](https://nbviewer.org/github/S84v/Customer-segmentation-clustering/blob/main/Customer%20Segmentation%20via%20Clustering.ipynb?flush_cache=true).<br>Alternatively, if the above link is not working properly, please click on the .ipynb in the repository files.
 
 #### PS. The dataset used in this project was sourced from Kaggle, you can find it [here](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign).
